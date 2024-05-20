@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pKB6zyEWtEOxjaY0Z8u69y1X66t2zs6qyK8tn7Nu5QE=",
+  "Source": "Interswitch_API",
+  "BasePath": "_content/Interswitch_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
